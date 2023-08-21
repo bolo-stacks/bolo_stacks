@@ -41,10 +41,10 @@ Aprendendo: Python / PyCharm e GitHub
 Comida favorita: Chocolate :chocolate_bar:
 
 
-- 👀 I’m interested in Learning
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me: email
+👀 I’m interested in Learning
+🌱 I’m currently learning Python
+💞️ I’m looking to collaborate on projects
+📫 How to reach me: email
 
 
  ✨ special repository ✨ 
