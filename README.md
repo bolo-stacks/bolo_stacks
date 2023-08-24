@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=54B4D3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54B4D3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+pablostacks;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54B4D3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+bolo_stacks;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ##
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pablostacks&show_icons=true&count_private=true&hide_border=true&title_color=54B4D3&icon_color=54B4D3&text_color=c9d1d9&bg_color=0d1117" alt="pablostacks github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablostacks&layout=compact&hide_border=true&title_color=54B4D3&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bolo_stacks&show_icons=true&count_private=true&hide_border=true&title_color=54B4D3&icon_color=54B4D3&text_color=c9d1d9&bg_color=0d1117" alt="bolo_stacks github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolo_stacks&layout=compact&hide_border=true&title_color=54B4D3&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 ##
@@ -33,7 +33,7 @@
 
 
 
-<h1 style="color: rgba(0, 0, 0,.80);text-shadow: 1px 1px 2px rgba(0,0,0,.90);">Olá, eu sou pablostacks 😎</h1>
+<h1 style="color: rgba(0, 0, 0,.80);text-shadow: 1px 1px 2px rgba(0,0,0,.90);">Olá, eu sou bolo_stacks 😎</h1>
 :alien:
 
 Aprendendo: Python / PyCharm e GitHub
